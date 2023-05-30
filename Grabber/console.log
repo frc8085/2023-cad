@@ -318,3 +318,8 @@ Message: DisplayVresionUpdatePage() sw3DPrintConnector undefined
 Source: file:///C:/Users/Seluga/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWVersionUpdate.html?updateRequired=True&mandatory=False&newVersion=6.31.2029
 Line: 179
 -----------------------
+Level: Error
+Message: Uncaught Error: NetworkError: url "https://r1132100503382-eu1.iam.3dexperience.3ds.com/login?action=get_auth_params" return ResponseCode with value "503".
+Source: https://r1132100503382-eu1.iam.3dexperience.3ds.com/3DPassport/resources-230224152206/js/DS/W3DPassport/dsp/DSP.js
+Line: 640
+-----------------------
