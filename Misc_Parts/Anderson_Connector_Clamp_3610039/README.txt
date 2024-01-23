@@ -1,0 +1,1 @@
+Anderson Connector Clamp by Tribalvision on Thingiverse: https://www.thingiverse.com/thing:3610039
